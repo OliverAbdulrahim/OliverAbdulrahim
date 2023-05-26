@@ -1,5 +1,3 @@
-# Oliver Abdulrahim (@OliverAbdulrahim)
-
 ## About me
 
 A fun fact about me is that, decades ago, I turned the family laptop into a brick after I accidentally wiped the Windows partition. Yes, I was trying to install Linux. Hey, everyone starts somewhere!
@@ -18,17 +16,17 @@ Feel free to reach out! :)
   - Security: passwordless Google OIDC and OAuth2 authentication and authorization
   - Operations: containerized with Docker, deployed and monitored using Google Cloud Compute Engine
   - CI / CD: tested with JUnit & Jest, CI / CD pipeline on GitHub Actions builds, tests, and publishes images
-- [**kotlin-asana**](https://github.com/OliverAbdulrahim/kotlin-asana) | _Kotlin, JUnit, KDoc, Maven, GitHub Actions_
+- [**kotlin-asana**](https://github.com/OliverAbdulrahim/kotlin-asana) | _Kotlin, JUnit, KDoc, Maven_
   - REST client for Asana written in Kotlin to optimally consume commonly used API endpoints. 
   - Saves time and reduces code complexity with its fluent domain-specific language
   - CI / CD pipeline on GitHub Actions includes JUnit tests and deployment of [documentation on GitHub Pages](https://oliverabdulrahim.github.io/kotlin-asana)
-- [**It's Technically Useful tech blog**](https://conservationcolorado.github.io/its-technically-useful) | _HTML, CSS, JavaScript, Hugo_
+- [**It's Technically Useful tech blog**](https://conservationcolorado.github.io/) | _HTML, CSS, JavaScript, Hugo_
   - A (brand-new!) technology blog where I talk about technology [with an eye for inclusivity](https://conservationcolorado.github.io/its-technically-useful/about)!
   - Articles upcoming in the categories of software engineering, security, productivity, and more!
 
 ## My skills
 ### Shortlist of my non-technical skills
-- **Empathy!** In order to make meaningful change, I seek to deeply understand the challenges that people around me face. A key part of this is listening actively and doing that more than speaking.
+- **Empathy!** In order to make meaningful change, I seek to deeply understand the challenges that people face. A key part of this is listening actively and doing that more than speaking.
 - **Continuous learning!** Learning new things is actually my favorite thing to do! I seek out difficult projects that take me out of my comfort zone. This is why I focus on working across the stack.
 - **Software requirements!** I know when to build something new, when to improve on what we have, and when to use what already exists. I love digging in and understanding the trade-offs between doing each of those.
 
@@ -41,11 +39,11 @@ Feel free to reach out! :)
     <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react&theme=dark"/>
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=docker,bash,gcp,git,nginx,linux&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=docker,bash,gcp,git,linux&theme=dark"/>
   </p>
 </div>
 
 ### Tools and technologies I'm familiar with
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,jquery,postgres,raspberrypi&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,jquery,postgres,nginx,raspberrypi&theme=dark"/>
 </div>
