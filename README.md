@@ -20,8 +20,8 @@ Feel free to reach out! :)
   - REST client for Asana written in Kotlin to optimally consume commonly used API endpoints. 
   - Saves time and reduces code complexity with its fluent domain-specific language
   - CI / CD pipeline on GitHub Actions includes JUnit tests and deployment of [documentation on GitHub Pages](https://oliverabdulrahim.github.io/kotlin-asana)
-- [**It's Technically Useful tech blog**](https://conservationcolorado.github.io/) | _HTML, CSS, JavaScript, Hugo_
-  - A (brand-new!) technology blog where I talk about technology [with an eye for inclusivity](https://conservationcolorado.github.io/its-technically-useful/about)!
+- [**It's Technically Useful tech blog**](https://tech.conservationco.org/) | _HTML, CSS, JavaScript, Hugo_
+  - A (brand-new!) technology blog where I talk about technology [with an eye for inclusivity](https://tech.conservationco.org/about)!
   - Articles upcoming in the categories of software engineering, security, productivity, and more!
 
 ## My skills
