@@ -1,6 +1,8 @@
+# Oliver Abdulrahim (@OliverAbdulrahim)
+
 ## About me
 
-A fun fact about me is that, decades ago, I turned the family laptop into a brick after I accidentally wiped the Windows partition. Yes, I was trying to install Linux. Hey, everyone starts somewhere!
+A fun fact about me is that, decades ago, I turned the family laptop into a brick after I accidentally wiped the Windows partition. Yes, I was trying to install Linux. Hey, everyone starts somewhere -- it's what you do after you mess up that counts! ;)
 
 As long as I can remember, I've always enjoyed taking things apart and analyzing them to understand the what, how, and why. I'm a problem-solver at heart, and I really enjoy collaborating and communicating technical challenges and solutions.
 
@@ -21,14 +23,14 @@ Feel free to reach out! :)
   - Saves time and reduces code complexity with its fluent domain-specific language
   - CI / CD pipeline on GitHub Actions includes JUnit tests and deployment of [documentation on GitHub Pages](https://oliverabdulrahim.github.io/kotlin-asana)
 - [**It's Technically Useful tech blog**](https://tech.conservationco.org/) | _HTML, CSS, JavaScript, Hugo_
-  - A (brand-new!) technology blog where I talk about technology [with an eye for inclusivity](https://tech.conservationco.org/about)!
-  - Articles upcoming in the categories of software engineering, security, productivity, and more!
+  - An [inclusive, free, and trustworthy space](https://tech.conservationco.org/about) where I discuss and document ways we use software engineering and technology at Conservation Colorado!
+  - Articles in the categories of software engineering, security, productivity, and more!
 
 ## My skills
 ### Shortlist of my non-technical skills
-- **Empathy!** In order to make meaningful change, I seek to deeply understand the challenges that people face. A key part of this is listening actively and doing that more than speaking.
-- **Continuous learning!** Learning new things is actually my favorite thing to do! I seek out difficult projects that take me out of my comfort zone. This is why I focus on working across the stack.
-- **Software requirements!** I know when to build something new, when to improve on what we have, and when to use what already exists. I love digging in and understanding the trade-offs between doing each of those.
+- **Empathy!** In order to make meaningful change, I seek to deeply understand the challenges that people face. A key part of this is listening actively when collaborating and doing that more than speaking.
+- **Continuous learning!** Learning new things is actually my favorite thing to do! I seek out difficult projects that take me out of my comfort zone. I've always got a browser tab with something new open or an interesting book checked out from the library.
+- **Software requirements!** I love digging in and understanding what we're *actually* building and the trade-offs between building something new, improving on what we have, and using what already exists.
 
 ### Tools and technologies I know and use regularly 
 <div align="center">
@@ -45,5 +47,5 @@ Feel free to reach out! :)
 
 ### Tools and technologies I'm familiar with
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,jquery,postgres,nginx,raspberrypi&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,jquery,postgres,nginx,raspberrypi,go&theme=dark"/>
 </div>
