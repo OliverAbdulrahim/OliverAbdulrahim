@@ -10,21 +10,9 @@ That spirit of wanting to learn, build, and make technology accessible is at the
 
 Feel free to reach out! :)
 
-## Selected projects, in no particular order!
-- [**asana-hire**](https://github.com/ConservationColorado/asana-hire) | _Kotlin, JavaScript, SQL, Docker, Shell_
-  - About: a FOSS recruitment management full stack web app that I developed at [Conservation Colorado](https://github.com/ConservationColorado) that helps us automate collection of hiring data, improve candidate experience, & increase our ability to make data-driven decisions while maintaining strict confidentiality
-  - Backend: Spring WebFlux server, SQL (Postgres / H2)
-  - Frontend: React single page application client
-  - Security: passwordless Google OIDC and OAuth2 authentication and authorization
-  - Operations: containerized with Docker, deployed and monitored using Google Cloud Compute Engine
-  - CI / CD: tested with JUnit & Jest, CI / CD pipeline on GitHub Actions builds, tests, and publishes images
-- [**kotlin-asana**](https://github.com/OliverAbdulrahim/kotlin-asana) | _Kotlin, JUnit, KDoc, Maven_
-  - REST client for Asana written in Kotlin to optimally consume commonly used API endpoints. 
-  - Saves time and reduces code complexity with its fluent domain-specific language
-  - CI / CD pipeline on GitHub Actions includes JUnit tests and deployment of [documentation on GitHub Pages](https://oliverabdulrahim.github.io/kotlin-asana)
-- [**It's Technically Useful tech blog**](https://tech.conservationco.org/) | _HTML, CSS, JavaScript, Hugo_
-  - An [inclusive, free, and trustworthy space](https://tech.conservationco.org/about) where I discuss and document ways we use software engineering and technology at Conservation Colorado!
-  - Articles in the categories of software engineering, security, productivity, and more!
+## [📚 Read about what I'm working on!]([https://tech.conservationco.org/)](https://tech.conservationco.org/))
+- [__Getting Started Implementing An OAuth2.0 Client Application__](https://tech.conservationco.org/blog/getting-started-with-implementing-oauth2.0/): An introduction to the authorization code flow and how you can implement it in your application securely.
+- [__How We Migrated Password Managers__](https://tech.conservationco.org/blog/how-we-migrated-password-managers/): A guide for organization administrators detailing the change management required to move password manager tools.
 
 ## My skills
 ### Shortlist of my non-technical skills
