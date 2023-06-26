@@ -11,8 +11,8 @@ That spirit of wanting to learn, build, and make technology accessible is at the
 Feel free to reach out! :)
 
 ## [📚 Read about what I'm working on!](https://tech.conservationco.org/)
-- [__Getting Started Implementing An OAuth2.0 Client Application__](https://tech.conservationco.org/blog/getting-started-with-implementing-oauth2.0/): A modern introduction to the authorization code flow and how you can implement it in your application securely.
-- [__How We Migrated Password Managers__](https://tech.conservationco.org/blog/how-we-migrated-password-managers/): A guide for organization administrators detailing the change management required to move password manager tools.
+- [__Getting Started Implementing An OAuth2.0 Client Application__](https://tech.conservationco.org/blog/getting-started-with-implementing-oauth2.0/): A modern, illustrated introduction to the authorization code flow and how you can implement it in your application securely.
+- [__How We Migrated Password Managers__](https://tech.conservationco.org/blog/how-we-migrated-password-managers/): A detailed guide for organization administrators detailing the change management required to move password manager tools, based on our experience migrating to Bitwarden in 2023.
 
 ## My skills
 ### Shortlist of my non-technical skills
